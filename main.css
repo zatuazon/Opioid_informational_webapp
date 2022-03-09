@@ -418,3 +418,11 @@ ul.icons {
     #banner .image {
       max-height: 35vh; } }
 
+#footer .copyright{
+  color:#9fa3a6;
+  font-size:0.9em;
+}
+
+#footer .copyright{
+  color: inherit;
+}
